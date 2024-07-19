@@ -6,6 +6,10 @@ En este desafío, he desarrollado una aplicación backend con Node.js y Express 
 
 La red social "Like Me" está en proceso de desarrollo y busca enfocarse en los likes de los posts emitidos por los usuarios. En esta primera parte del desafío, se ha desarrollado la lógica correspondiente a la creación de posts.
 
+### Captura de pantalla 📸
+
+![Escritorio](./screenshot.png)
+
 ### Archivos del Proyecto 📂
 
 - **index.js**: Archivo principal que importa las configuraciones de entorno y el servidor.
