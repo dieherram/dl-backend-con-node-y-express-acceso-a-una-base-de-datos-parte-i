@@ -1,4 +1,4 @@
-# Desafío - Like Me (Parte I)
+# Desafío - Like Me (Parte I) ❤️
 
 En este desafío, he desarrollado una aplicación backend con Node.js y Express que gestiona los posts y los likes para la red social "Like Me".
 
